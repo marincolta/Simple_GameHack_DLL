@@ -13,6 +13,6 @@ recasting to uintptr_t and futhermor we call it with Null so we could get the ad
 
 We use the function "GetAsyncKeyState(key) & 1" function to check if the given button was pressed, we check if the current button was pressed thanks to "& 1"
 
-We got the stack for example "\x50\x8D\x4C\x24\x1C\x51\x8B\xCE\xFF\xD2" thanks to CH (Cheat Engine) by looking at the bytes of some functions / memory addresses. (SO you should have knowledge in Cheat Engine too but i will leave a photo too")
+We got the stack for example "\x50\x8D\x4C\x24\x1C\x51\x8B\xCE\xFF\xD2" thanks to CH (Cheat Engine) by looking at the bytes of some functions / memory addresses. (SO you should have knowledge in Cheat Engine too but i will leave a  few photos  too")
 
 
