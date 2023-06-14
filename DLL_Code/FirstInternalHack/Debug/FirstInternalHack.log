@@ -1,0 +1,7 @@
+﻿D:\Visual_Studio2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstInternalHack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  dllmain.cpp
+  mem.cpp
+  proc.cpp
+  Generating Code...
+  FirstInternalHack.vcxproj -> C:\Users\colta\Downloads\First Internal Hack\Debug\AC_CLIENT_DLL.dll
